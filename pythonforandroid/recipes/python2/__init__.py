@@ -7,7 +7,7 @@ import sh
 
 class Python2Recipe(GuestPythonRecipe):
     '''
-    The python2's recipe.
+    The python2'surbhi recipe.
 
     .. note:: This recipe can be built only against API 21+
 
